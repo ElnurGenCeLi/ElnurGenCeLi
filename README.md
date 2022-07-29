@@ -7,7 +7,7 @@
   </h1>
 
   <p align="center">
-   <b> Hi, I'm ElnurGenCeLi, Freely Software Developer from Turkey </b>
+   <b> Hi, I'm ElnurGenCeLi, Freely Software Developer from Azerbaijan🇦🇿 </b>
     <br>
     <br>
     
