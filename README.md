@@ -7,14 +7,14 @@
   </h1>
 
   <p align="center">
-   <b> Hi, I'm ElnurGenCeLi, Freely Software Developer from Azerbaijan🇦🇿 </b>
+   <b> Salam, mən ElnurGenCeLi, Azərbaycandan Sərbəst Proqram Tərtibatçı 🇦🇿 </b>
     <br>
     <br>
     
    
-    💻 I love writing code and learn anythings about it
+    💻 Mən kod yazmağı sevirəm və bu barədə hər şeyi öyrənirəm
   
-    📚 I’m currently learning different software langauages
+    📚 Hazırda müxtəlif proqram dillərini öyrənirəm
 
   </p>
 
