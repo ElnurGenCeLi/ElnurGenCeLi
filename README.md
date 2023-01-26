@@ -19,7 +19,7 @@
   </p>
 
   <hr>
-  <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
+  <h2 align="center">🔥 <b>Dillər və Çərçivələr, Alətlər və Bacarıqlar</b> 🔥</h2>
   <br>
   <p align="center">
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg"></code>
@@ -40,7 +40,7 @@
   </p>
   <hr>
 
-  <h2 align="center">⚡<b> Stats </b>⚡</h2>
+  <h2 align="center">⚡<b> Statistika </b>⚡</h2>
   <hr>
   <br>
   <p align=center>
